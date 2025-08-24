@@ -1,0 +1,6 @@
+langchain_google_genai
+ipynb
+langchain 
+google-generativeai
+python-dotenv
+langchain_community
